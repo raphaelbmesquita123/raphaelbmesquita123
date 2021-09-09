@@ -19,8 +19,8 @@
  
  </a> 
   <a href="https://portfolio-one-blue.vercel.app" target="_blank">
-   <img src="https://img.shields.io/badge/Portifolio-Open-orange?"/>
-    </a>
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
 </div>
 
 
