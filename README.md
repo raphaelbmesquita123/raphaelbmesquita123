@@ -19,7 +19,7 @@
  
  </a> 
   <a href="https://portfolio-one-blue.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portifolio-%111111B5?style=for-the-badge" target="_blank">
+    <img src="https://img.shields.io/badge/-Portifolio-%112311B5?style=for-the-badge" target="_blank">
    </a>
 </div>
 
