@@ -19,7 +19,7 @@
  
  </a> 
   <a href="https://portfolio-one-blue.vercel.app" target="_blank">
-   <img src="https://img.shields.io/badge/Portifolio-Open-orange?" style={height: '80px'}/>
+   <img src="https://img.shields.io/badge/Portifolio-Open-orange?"/>
     </a>
 </div>
 
