@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Raphael Mesquita!
 
 - 🔭 I’m currently working as Front-End Developer
-- 😄 Pronouns: He
 
  <div>
   <a href="https://github.com/raphaelbmesquita123">
@@ -18,9 +17,6 @@
  <a href="https://www.linkedin.com/in/raphael-mesquita-/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
-<!--   <a href="https://portfolio-one-blue.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portifolio-%992311B5?style=for-the-badge" target="_blank">
-   </a> -->
 </div>
 
 
